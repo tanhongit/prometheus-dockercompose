@@ -1,3 +1,5 @@
+:whale Docker configuration for an instance of Prometheus using docker-compose.
+
 # What is Prometheus?
 
 Prometheus is a free software application used for event monitoring and alerting. It records metrics in a time series database built using an HTTP pull model, with flexible queries and real-time alerting.
