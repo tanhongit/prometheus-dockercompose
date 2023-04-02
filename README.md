@@ -1,4 +1,4 @@
-:whale Docker configuration for an instance of Prometheus using docker-compose.
+:whale: Docker configuration for an instance of Prometheus using docker-compose.
 
 # What is Prometheus?
 
